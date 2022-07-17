@@ -4,6 +4,9 @@ title: "Zahíd Asghar"
 image: "zahid.jpg"
 links:
   - label: Resume
+    url: "https://zahedasghar.github.io/cv/index.pdf"
+  
+  - label: LinkedIn
     url: "https://linkedin.com/in/zahid-asghar-50763b21/"
   - label: Blog
     url: "https://zahidasghar.medium.com/"
